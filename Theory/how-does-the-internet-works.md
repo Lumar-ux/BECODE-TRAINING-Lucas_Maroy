@@ -1,11 +1,11 @@
 # How the internet Works
-__*Internet est un réseau mondial qui connecte des millions d'ordinateurs*__ et d'autres appareils, leur permettant de communiquer entre eux. Imagine Internet comme un système postal géant qui transporte des informations sous forme de paquets de données d'un appareil à un autre.
+__*Internet est un réseau mondial qui connecte des millions d'ordinateurs*__ et d'autres appareils, leur permettant de communiquer entre eux. Imaginez Internet comme un système postal géant qui transporte des informations sous forme de paquets de données d'un appareil à un autre.
 
 [![Schema - How the internet Works](https://culture-informatique.net/wp-content/uploads/2014/08/internet.png)](https://developer.mozilla.org/fr/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
 
 ### Les Bases du Fonctionnement
 
-1. **Réseaux Interconnectés** : Internet est constitué de nombreux réseaux plus petits reliés entre eux. Chaque appareil connecté à Internet fait partie d'un de ces réseaux.
+1. **Réseaux Interconnectés** : Internet est constitué de nombreux réseaux plus petits reliés entre eux. Chaque appareil connecté à Internet fait partie de l'un de ces réseaux.
 
 2. **Protocoles** : Les appareils communiquent en utilisant des règles appelées "[protocoles](https://fr.wikipedia.org/wiki/Protocole)". Le principal protocole utilisé sur Internet est le TCP/IP (Transmission Control [protocoles](https://fr.wikipedia.org/wiki/Protocole)/Internet Protocol). Ces [protocoles](https://fr.wikipedia.org/wiki/Protocole) permettent aux données de voyager d'un point A à un point B de manière fiable.
 
@@ -51,3 +51,6 @@ En termes simples, Internet permet à différents appareils de communiquer entre
 - Transmission de Données
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXY3NWhpa2F1aG51NzVmdXBkZHQ4Z2p0eW9yMWd0azd0ajNoejU3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vk1uLMncfuMFi/giphy.gif" width="500" height="500" alt="Paul Astreid before is fight">
+
+<br /><br /><br />
+*This theory file has been reviewed by Nate*
